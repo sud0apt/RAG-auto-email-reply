@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Automation-Email-orange" alt="Automation">
   <img src="https://img.shields.io/badge/Outlook-Integration-blueviolet" alt="Outlook">
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/your-username/RAG-auto-email-reply" alt="License">
+    <img src="https://img.shields.io/github/license/sud0aptRAG-auto-email-reply" alt="License">
   </a>
 </div>
 

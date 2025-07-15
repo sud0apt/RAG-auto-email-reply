@@ -4,18 +4,6 @@
 </h3>
 
 <div align="center">
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/your-username/RAG-auto-email-reply" alt="License">
-  </a>
-  <a href="https://pypi.org/project/rag-auto-email-reply/">
-    <img src="https://img.shields.io/pypi/v/rag-auto-email-reply" alt="PyPI Version">
-  </a>
-  <a href="https://github.com/your-username/RAG-auto-email-reply/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/your-username/RAG-auto-email-reply.svg" alt="GitHub Contributors">
-  </a>
-</div>
-
-<div align="center">
   <p>
     Empower your email workflows with intelligent, context-aware reply automation using RAG and Outlook integration.
   </p>

@@ -4,6 +4,17 @@
 </h3>
 
 <div align="center">
+  <!-- Badges: Tech & Purpose Specific -->
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/AI-RAG-green?logo=openai&logoColor=white" alt="RAG">
+  <img src="https://img.shields.io/badge/Automation-Email-orange" alt="Automation">
+  <img src="https://img.shields.io/badge/Outlook-Integration-blueviolet" alt="Outlook">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/your-username/RAG-auto-email-reply" alt="License">
+  </a>
+</div>
+
+<div align="center">
   <p>
     Empower your email workflows with intelligent, context-aware reply automation using RAG and Outlook integration.
   </p>
@@ -11,28 +22,13 @@
 
 ---
 
-## 🔎 Table of Contents
-
-- [Project Overview](#project-overview)  
-- [Features](#features)  
-- [System Architecture](#system-architecture)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [File Structure](#file-structure)  
-- [Flowcharts](#flowcharts)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
-
----
-
-## Project Overview
+## 🎯 Project Overview
 
 **RAG‑auto‑email‑reply** streamlines email communication by automatically fetching incoming Outlook emails, gathering relevant context, and generating intelligent, human-like replies—powered by a Retrieval‑Augmented Generation (RAG) model. It includes a dedicated flow for NDA facilitation, reducing manual effort for routine exchanges.
 
 ---
 
-## Features
+## ✅ Features
 
 - **Automated Outlook Integration**  
   Fetches and processes inbound emails automatically.
@@ -48,7 +44,7 @@
 
 ---
 
-## System Architecture
+## 🏗️ System Architecture
 
 Modular Python design:
 
@@ -59,6 +55,5 @@ Modular Python design:
 - `database_utils.py`, `transcript_utils.py` → Support modules for history and transcript handling
 
 ---
-
 
 
